@@ -2,7 +2,7 @@
 
 ShieldUp is an interactive, gamified quiz platform that helps organizations build a security-first culture by engaging departments through fun, competitive quizzes covering phishing, data handling, password hygiene, and secure practices.
 
-🚀 Features
+# 🚀 Features
 
 Department-wise competitive quizzes
 
@@ -14,12 +14,12 @@ Progress tracking for individuals and teams
 
 Customizable quiz packs
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React, HTML, CSS, JavaScript
 Backend: Python (Flask / Django)
 
-🖥️ Installation
+# 🖥️ Installation
 
 Clone the repository:
 
@@ -47,7 +47,7 @@ Run backend:
 
 `python app.py`
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome!
 
@@ -61,7 +61,7 @@ Push your branch
 
 Create a Pull Request
 
-📞 Contact
+# 📞 Contact
 
 For enterprise deployment and support:
 
