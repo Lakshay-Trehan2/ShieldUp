@@ -17,6 +17,7 @@ Customizable quiz packs
 # 🛠️ Tech Stack
 
 Frontend: React, HTML, CSS, JavaScript
+
 Backend: Python (Flask / Django)
 
 # 🖥️ Installation
